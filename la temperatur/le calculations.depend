@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694635582 source:c:\users\thinkpad\documents\chalenges\le calculations\main.c
+	<stdio.h>
+	<stdlib.h>
+
